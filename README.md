@@ -1,2 +1,2 @@
 # Remembering_Words_Community
-The community of Remembering Words
+要望、質問、脆弱性の報告等は[issue](https://github.com/PenguinCabinet/Remembering_Words_Community/issues)でお願いいたします。
